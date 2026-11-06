@@ -1,4 +1,4 @@
-# ElecCostCO2-for-IOS
+# ElecCostCO2-for-IOS - Privacy Policy and Data Collection
 Privacy Policy for ElecCostCO2 App on the Apple App Store.
 
 General:
@@ -52,3 +52,4 @@ Contact:
 If you have any questions or suggestions regarding this Privacy Policy, or if you identify any security vulnerability that may have been inadvertently introduced, please feel free to email contact the developer and action will be taken to try to fix it/help you.
 
 Yours sincerely, The App Developer 1st November 2026
+chivnet@outlook.com
